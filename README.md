@@ -19,7 +19,11 @@ Caso queira ver a simulação através do wokwi web: [simulação no Wokwi web](
 
 Observação importante!: Na simulação do Wokwi o printf via terminal não funciona para o rp2040 com Cmake.
 
-![simulação no VS Code](https://github.com/fabiorgj/Tarefa_aula_sinc_29_01_Atividade_1/blob/main/simula%C3%A7%C3%A3o%20wokwi.gif)
+![Simulação no VS Code](https://github.com/fabiorgj/Tarefa_aula_sinc_29_01_Atividade_1/blob/main/simula%C3%A7%C3%A3o%20wokwi.gif)   
+
+O código rodando na BitdogLab:
+
+![Na bitdoglab](https://github.com/fabiorgj/Tarefa_aula_sinc_29_01_Atividade_1/blob/main/bitdoglab-atv1.gif)    
 
 ## Descrição
 O código controla um semáforo com três LEDs:
